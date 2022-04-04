@@ -1,0 +1,6 @@
+D:\ResearchCode\CodeProjects\Practices\Quest\QuestCodeChallenge\obj\Debug\QuestCodeChallenge.csproj.CoreCompileInputs.cache
+D:\ResearchCode\CodeProjects\Practices\Quest\QuestCodeChallenge\bin\Debug\QuestCodeChallenge.exe.config
+D:\ResearchCode\CodeProjects\Practices\Quest\QuestCodeChallenge\bin\Debug\QuestCodeChallenge.exe
+D:\ResearchCode\CodeProjects\Practices\Quest\QuestCodeChallenge\bin\Debug\QuestCodeChallenge.pdb
+D:\ResearchCode\CodeProjects\Practices\Quest\QuestCodeChallenge\obj\Debug\QuestCodeChallenge.exe
+D:\ResearchCode\CodeProjects\Practices\Quest\QuestCodeChallenge\obj\Debug\QuestCodeChallenge.pdb
